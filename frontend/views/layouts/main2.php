@@ -6,7 +6,7 @@
  * Time: 21:02
  */
 /* @var $this \yii\web\View */
-/* @var $content string */  /***/
+/* @var $content string */
 
 use yii\helpers\Html;
 use yii\bootstrap\Nav;
